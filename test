@@ -1,2 +1,3 @@
+out = new BufferedWriter(new FileWriter(”filename”, true));
 Properties props = new Properties();
 hello world
