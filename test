@@ -1,3 +1,4 @@
+// do the thing you do
 try {
 public static void main(String[] args)
 public class OracleJdbcTest
