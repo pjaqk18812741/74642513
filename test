@@ -1,3 +1,4 @@
+String password = props.getProperty("db.password");
 // do the thing you do
 try {
 public static void main(String[] args)
