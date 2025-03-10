@@ -1,3 +1,4 @@
+while (rs.next())
 String password = props.getProperty("db.password");
 // do the thing you do
 try {
