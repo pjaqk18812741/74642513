@@ -1,3 +1,4 @@
+while (rs.next())
 test.fetch();
 out.write(”aString”);
 String password = props.getProperty("db.password");
