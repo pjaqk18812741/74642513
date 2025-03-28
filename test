@@ -1,3 +1,4 @@
+Properties props = new Properties();
 while (rs.next())
 test.fetch();
 out.write(”aString”);
